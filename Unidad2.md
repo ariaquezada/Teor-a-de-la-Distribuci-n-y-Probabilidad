@@ -1,6 +1,6 @@
-# 📘 Unidad 2: Probabilidad y Distribuciones de Probabilidad
+# 📘 Unidad 2: Distribuciones Continuas e Inferencia Estadística
 
-Esta sección almacena las prácticas, laboratorios y actividades experimentales correspondientes al estudio de la probabilidad teórica, variables aleatorias y los modelos de distribución aplicados al proyecto.
+Esta sección almacena las prácticas, laboratorios y la evaluación sumativa correspondientes al estudio de distribuciones notables, estimación de parámetros y pruebas de hipótesis aplicadas al proyecto.
 
 ---
 
@@ -8,16 +8,27 @@ Esta sección almacena las prácticas, laboratorios y actividades experimentales
 
 Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código directamente en el visor de GitHub:
 
-* 📓 [Ver APE 06: Probabilidad Condicional y Teorema de Bayes](./APE06.ipynb)
-  * *Descripción:* Implementación de cálculo de probabilidades condicionales y aplicaciones del Teorema de Bayes en contextos reales.
-* 📓 [Ver APE 07: Modelado de Variables Aleatorias](./APE07.ipynb)
-  * *Descripción:* Definición, simulación y análisis de variables aleatorias junto a sus funciones de distribución acumulada.
-* 📓 [Ver APE 08: Distribuciones Continuas Notables](./APE08.ipynb)
-  * *Descripción:* Aplicación y análisis de distribuciones continuas (Normal, Exponencial) para la modelación de fenómenos estadísticos.
+* 📓 [Ver APE 06: Distribuciones Continuas Notables](./APE06.ipynb)
+  * *Descripción:* Modelado y aplicación de funciones de densidad continuas en contextos estadísticos.
+* 📓 [Ver APE 07: Distribuciones Muestrales y TLC](./APE07.ipynb)
+  * *Descripción:* Verificación del Teorema del Límite Central mediante simulación estocástica.
+* 📓 [Ver APE 08: Inferencia Estadística - Intervalos de Confianza](././APE08.ipynb)
+  * *Descripción:* Estimación de parámetros e intervalos de confianza utilizando las distribuciones Z y T de Student.
+* 📓 [Ver APE 09: Pruebas de Hipótesis Paramétricas](./APE09.ipynb)
+  * *Descripción:* Implementación de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
+* 📓 [Ver APE 10: Inferencia Estadística Multigrupo](./APE10.ipynb)
+  * *Descripción:* Análisis de Varianza (ANOVA de 1 factor) y pruebas Post-Hoc de Tukey para comparación múltiple.
+
+---
+
+### 📝 Evaluación Sumativa
+
+* ⚡ [Ver Evaluación Sumativa II: Examen Práctico](./ExamenII_ArletteQuezada.ipynb)
+  * *Descripción:* Resolución práctica de problemas de inferencia y modelos estadísticos aplicados con conjuntos de datos reales.
 
 ---
 
 ### 🎯 Competencias Consolidadas
 
-* **Análisis probabilístico avanzado:** Capacidad para calcular e interpretar escenarios complejos usando herramientas de probabilidad condicional.
-* **Modelado de datos continuos:** Habilidad para evaluar e integrar funciones de densidad en problemas de ingeniería y ciencias de la computación.
+* **Inferencia y estimación:** Habilidad para validar hipótesis estadísticas y estimar parámetros poblacionales con rigor matemático.
+* **Modelado estocástico:** Capacidad para simular procesos y evaluar variaciones grupales mediante análisis ANOVA avanzados.
