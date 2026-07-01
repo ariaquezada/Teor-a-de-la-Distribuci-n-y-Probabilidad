@@ -4,21 +4,20 @@ Esta sección almacena las prácticas y actividades experimentales correspondien
 
 ### 📂 Registro de Actividades Prácticas (APEs)
 
-Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código directamente en el visor de GitHub:
+Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código directamente en una nueva pestaña:
 
-* 📓 [Ver APE 00: Fundamentos de Probabilidad y Espacios Muestrales](./APE00_GrupoB.ipynb)
+* 📓 <a href="./APE00_GrupoB.ipynb" target="_blank">Ver APE 00: Fundamentos de Probabilidad y Espacios Muestrales</a>
   * *Descripción:* Modelado inicial de espacios de probabilidad y reglas probabilísticas básicas.
-* 📓 [Ver APE 01: Variables Aleatorias y Distribuciones de Probabilidad](./APE01.ipynb)
+* 📓 <a href="./APE01.ipynb" target="_blank">Ver APE 01: Variables Aleatorias y Distribuciones de Probabilidad</a>
   * *Descripción:* Definición de funciones de probabilidad y cálculo de esperanzas matemáticas de variables iniciales.
-* 📓 [Ver APE 02: Distribuciones Muestrales y Teorema del Límite Central](./APE02.ipynb)
+* 📓 <a href="./APE02.ipynb" target="_blank">Ver APE 02: Distribuciones Muestrales y Teorema del Límite Central</a>
   * *Descripción:* Verificación experimental de la convergencia de las medias muestrales hacia la normalidad poblacional.
-* 📓 [Ver APE 03: Variables Aleatorias Discretas y Continuas](./APE03.ipynb)
+* 📓 <a href="./APE03.ipynb" target="_blank">Ver APE 03: Variables Aleatorias Discretas y Continuas</a>
   * *Descripción:* Clasificación, modelado matemático e integración de densidades continuas frente a conteos discretos.
-* 📓 [Ver APE 04: Momentos Estadísticos y Análisis de Tendencia Central](./APE04.ipynb)
+* 📓 <a href="./APE04.ipynb" target="_blank">Ver APE 04: Momentos Estadísticos y Análisis de Tendencia Central</a>
   * *Descripción:* Cálculo de sesgo, curtosis y varianzas sobre la base de datos previa a la inferencia.
-* 📓 [Ver APE 05: Distribuciones Discretas Notables](./APE05.ipynb)
+* 📓 <a href="./APE05.ipynb" target="_blank">Ver APE 05: Distribuciones Discretas Notables</a>
   * *Descripción:* Aplicación de modelos de Bernoulli, Binomial y Poisson para evaluar comportamientos discretos específicos en los hogares.
-
 ---
 
 ## 🎯 Competencias Consolidadas
