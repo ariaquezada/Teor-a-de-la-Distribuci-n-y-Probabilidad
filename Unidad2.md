@@ -8,15 +8,15 @@ Esta sección almacena las prácticas, laboratorios y la evaluación sumativa co
 
 Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código directamente en el visor de GitHub:
 
-* 📓 [Ver APE 06: Distribuciones Continuas Notables](./APE06.ipynb)
+* 📓 [Ver APE 06: Distribuciones Continuas Notables](./APE006_GrupoB.ipynb)
   * *Descripción:* Modelado y aplicación de funciones de densidad continuas en contextos estadísticos.
-* 📓 [Ver APE 07: Distribuciones Muestrales y TLC](./APE07.ipynb)
+* 📓 [Ver APE 07: Distribuciones Muestrales y TLC](./APE_007_TLC.ipynb)
   * *Descripción:* Verificación del Teorema del Límite Central mediante simulación estocástica.
-* 📓 [Ver APE 08: Inferencia Estadística - Intervalos de Confianza](././APE08.ipynb)
+* 📓 [Ver APE 08: Inferencia Estadística - Intervalos de Confianza](./APE_008_Intervalos.ipynb)
   * *Descripción:* Estimación de parámetros e intervalos de confianza utilizando las distribuciones Z y T de Student.
-* 📓 [Ver APE 09: Pruebas de Hipótesis Paramétricas](./APE09.ipynb)
+* 📓 [Ver APE 09: Pruebas de Hipótesis Paramétricas](./APE009_GrupoB.ipynb)
   * *Descripción:* Implementación de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
-* 📓 [Ver APE 10: Inferencia Estadística Multigrupo](./APE10.ipynb)
+* 📓 [Ver APE 10: Inferencia Estadística Multigrupo](./APE_010_DosMuestras.ipynb)
   * *Descripción:* Análisis de Varianza (ANOVA de 1 factor) y pruebas Post-Hoc de Tukey para comparación múltiple.
 
 ---
