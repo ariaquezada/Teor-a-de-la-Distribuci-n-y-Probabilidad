@@ -5,7 +5,6 @@
 * **Carrera:** Ingeniería en Ciencias de la Computación  
 * **Asignatura:** Distribución y Probabilidad  
 * **Estudiante:** Ariana Arlette Quezada Fernández  
-* **Colaborador (Portafolio):** Andrés  
 * **Proyecto Integrador:** Análisis PID - Dataset de Hogares y Comportamiento Ambiental (ENEMDU)
 
 ---
