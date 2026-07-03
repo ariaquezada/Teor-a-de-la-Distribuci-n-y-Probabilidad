@@ -15,7 +15,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 * 📓 [Ver APE 08: Inferencia Estadística - Intervalos de Confianza](./APE_008_Intervalos.ipynb)
   * *Descripción:* Estimación de parámetros e intervalos de confianza utilizando las distribuciones Z y T de Student.
 * 📓 [Ver APE 09: Pruebas de Hipótesis Paramétricas](./APE009_GrupoB.ipynb)
-  * *Descripción:* Implementación de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
+  * *Descripción:* Implementation de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
 * 📓 [Ver APE 10: Inferencia Estadística Multigrupo](./APE_010_DosMuestras.ipynb)
   * *Descripción:* Análisis de Varianza (ANOVA de 1 factor) y pruebas Post-Hoc de Tukey para comparación múltiple.
 
@@ -32,7 +32,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 ### 🎥 Componente 2: Trabajo Autónomo (Defensa en Video)
 
-* 🎬 [Ver Video de Defensa - Componente 2](TU_ENLACE_AQUÍ)
+* 🎬 [Ver Video de Defensa - Componente 2](https://drive.google.com/file/d/1IuH6-SREl6r1NkJoXJtFIlHAy-vx2Pou/view?usp=drive_link)
   * *Descripción:* Video explicativo (6-8 min) detallando la justificación de pruebas paramétricas mediante tests de normalidad (Shapiro-Wilk), demostración del código en Jupyter y la interpretación del valor-p para la toma de decisiones estadísticas.
 
 ---
