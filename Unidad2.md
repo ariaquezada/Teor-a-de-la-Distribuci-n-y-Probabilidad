@@ -15,7 +15,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 * 📓 [Ver APE 08: Inferencia Estadística - Intervalos de Confianza](./APE_008_Intervalos.ipynb)
   * *Descripción:* Estimación de parámetros e intervalos de confianza utilizando las distribuciones Z y T de Student.
 * 📓 [Ver APE 09: Pruebas de Hipótesis Paramétricas](./APE009_GrupoB.ipynb)
-  * *Descripción:* Implementation de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
+  * *Descripción:* Implementación de pruebas de hipótesis paramétricas (Z y T) junto al análisis del Valor-p.
 * 📓 [Ver APE 10: Inferencia Estadística Multigrupo](./APE_010_DosMuestras.ipynb)
   * *Descripción:* Análisis de Varianza (ANOVA de 1 factor) y pruebas Post-Hoc de Tukey para comparación múltiple.
 
@@ -25,7 +25,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 * ⚡ [Ver Evaluación Sumativa II: Examen Práctico](./ExamenII_ArletteQuezada.ipynb)
   * *Descripción:* Resolución práctica de problemas de inferencia y modelos estadísticos aplicados con conjuntos de datos reales.
-* 📊 [Ver Dataset Fuente: Datos de Loja](./PON_AQUÍ_EL_NOMBRE_DE_TU_ARCHIVO.csv)
+* 📊 [Ver Dataset Fuente: Datos de Loja](./Dataset_hogares_ambiental_2025.csv)
   * *Descripción:* Matriz de datos original utilizada como insumo para el procesamiento estadístico y las simulaciones en Python.
 
 ---
