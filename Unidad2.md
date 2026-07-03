@@ -1,6 +1,6 @@
 # 📘 Unidad 2: Distribuciones Continuas e Inferencia Estadística
 
-Esta sección almacena las prácticas, laboratorios y la evaluación sumativa correspondientes al estudio de distribuciones notables, estimación de parámetros y pruebas de hipótesis aplicadas al proyecto.
+Esta sección almacena las prácticas, laboratorios, la evaluación sumativa y la defensa del trabajo autónomo correspondientes al estudio de distribuciones notables, estimación de parámetros y pruebas de hipótesis aplicadas al proyecto.
 
 ---
 
@@ -21,17 +21,19 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 ---
 
-### 📝 Evaluación Sumativa
+### 📝 Evaluación Sumativa y Base de Datos
 
 * ⚡ [Ver Evaluación Sumativa II: Examen Práctico](./ExamenII_ArletteQuezada.ipynb)
   * *Descripción:* Resolución práctica de problemas de inferencia y modelos estadísticos aplicados con conjuntos de datos reales.
+* 📊 [Ver Dataset Fuente: Datos de Loja](./PON_AQUÍ_EL_NOMBRE_DE_TU_ARCHIVO.csv)
+  * *Descripción:* Matriz de datos original utilizada como insumo para el procesamiento estadístico y las simulaciones en Python.
 
 ---
 
-### 🎯 Competencias Consolidadas
+### 🎥 Componente 2: Trabajo Autónomo (Defensa en Video)
 
-* **Inferencia y estimación:** Habilidad para validar hipótesis estadísticas y estimar parámetros poblacionales con rigor matemático.
-* **Modelado estocástico:** Capacidad para simular procesos y evaluar variaciones grupales mediante análisis ANOVA avanzados.
+* 🎬 [Ver Video de Defensa - Componente 2](TU_ENLACE_AQUÍ)
+  * *Descripción:* Video explicativo (6-8 min) detallando la justificación de pruebas paramétricas mediante tests de normalidad (Shapiro-Wilk), demostración del código en Jupyter y la interpretación del valor-p para la toma de decisiones estadísticas.
 
 ---
 
@@ -42,3 +44,10 @@ Durante esta unidad, consolidé la transición de la estadística descriptiva ha
 
 **2. Dificultades Algorítmicas Superadas:**
 El mayor reto técnico a nivel de código fue estructurar correctamente los dataframes con las muestras locales de Loja y limpiar los datos faltantes o nulos (`NaN`) sin alterar el tamaño crítico de la muestra. Asimismo, la correcta configuración de los grados de libertad en las pruebas T de Student para muestras independientes y la interpretación matricial de las pruebas Post-Hoc de Tukey requirieron un esfuerzo extra de abstracción algorítmica, logrando resolver las inconsistencias mediante el uso estricto de las funciones vectorizadas de `scipy.stats`.
+
+---
+
+### 🎯 Competencias Consolidadas
+
+* **Inferencia y estimación:** Habilidad para validar hipótesis estadísticas y estimar parámetros poblacionales con rigor matemático.
+* **Modelado estocástico:** Capacidad para simular procesos y evaluar variaciones grupales mediante análisis ANOVA avanzados.
