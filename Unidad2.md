@@ -32,3 +32,13 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 * **Inferencia y estimación:** Habilidad para validar hipótesis estadísticas y estimar parámetros poblacionales con rigor matemático.
 * **Modelado estocástico:** Capacidad para simular procesos y evaluar variaciones grupales mediante análisis ANOVA avanzados.
+
+---
+
+### 📓 Bitácora de Aprendizaje y Autoevaluación (Componente 3)
+
+**1. Aprendizajes Clave en la Unidad de Inferencia:**
+Durante esta unidad, consolidé la transición de la estadística descriptiva hacia la inferencia robusta. El logro principal fue automatizar mediante Python la verificación de supuestos críticos (como el test de normalidad de Shapiro-Wilk) antes de proceder con pruebas paramétricas. Logré comprender a fondo el peso matemático del *p-valor* y cómo este determina con un 95% de confianza el rechazo o no de una hipótesis nula en problemas de comparación múltiple (ANOVA).
+
+**2. Dificultades Algorítmicas Superadas:**
+El mayor reto técnico a nivel de código fue estructurar correctamente los dataframes con las muestras locales de Loja y limpiar los datos faltantes o nulos (`NaN`) sin alterar el tamaño crítico de la muestra. Asimismo, la correcta configuración de los grados de libertad en las pruebas T de Student para muestras independientes y la interpretación matricial de las pruebas Post-Hoc de Tukey requirieron un esfuerzo extra de abstracción algorítmica, logrando resolver las inconsistencias mediante el uso estricto de las funciones vectorizadas de `scipy.stats`.
