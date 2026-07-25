@@ -21,15 +21,6 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 ---
 
-### 📝 Evaluación Sumativa y Base de Datos
-
-* ⚡ [Ver Evaluación Sumativa III: Examen Práctico](./ExamenIII_ArletteQuezada.ipynb)
-  * *Descripción:* Aplicación práctica de modelos predictivos y validación cruzada con datos reales del proyecto.
-* 📊 [Ver Dataset Fuente: Datos de Loja](./Dataset_hogares_ambiental_2025.csv)
-  * *Descripción:* Matriz de datos original utilizada como insumo para el entrenamiento y prueba de los modelos en Python.
-
----
-
 ### 📓 Bitácora de Aprendizaje y Autoevaluación
 
 **1. Aprendizajes Clave en la Unidad de Modelado:**
