@@ -10,7 +10,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 * 📓 [Ver APE 11: Pruebas No Paramétricas y Ajuste](./APE11.ipynb)
   * *Descripción:* Evaluación de distribuciones y pruebas de bondad de ajuste en variables no paramétricas.
-* 📓 [Ver APE 12: Regresión Lineal Simple](./APE_012_Regresion_ipynb_.ipynb)
+* 📓 [Ver APE 12: Regresión Lineal Simple](./APE_012_Regresion.ipynb)
   * *Descripción:* Modelado de relación entre variables cuantitativas, ajuste por mínimos cuadrados y evaluación de $R^2$.
 * 📓 [Ver APE 14: Regresión Lineal Múltiple](./APE_014_Regresion_Multiple_.ipynb)
   * *Descripción:* Construcción de modelos multivariados y análisis de multicolinealidad en conjuntos de datos.
@@ -18,6 +18,15 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
   * *Descripción:* Clasificación binaria, estimación de *Odds Ratios* y modelado de probabilidades.
 * 📓 [Ver APE 16: Validación y Curvas ROC](./APE_016_ValidacionROC.ipynb)
   * *Descripción:* Evaluación del rendimiento de modelos mediante matrices de confusión, sensibilidad, especificidad y curvas ROC/AUC.
+
+---
+
+### 📝 Evaluación Sumativa y Base de Datos
+
+* ⚡ [Ver Evaluación Sumativa III: Examen Práctico](./ExamenIII_ArletteQuezada.ipynb)
+  * *Descripción:* Aplicación práctica de modelos predictivos y validación cruzada con datos reales del proyecto.
+* 📊 [Ver Dataset Fuente: Datos de Loja](./Dataset_hogares_ambiental_2025.csv)
+  * *Descripción:* Matriz de datos original utilizada como insumo para el entrenamiento y prueba de los modelos en Python.
 
 ---
 
@@ -34,4 +43,4 @@ El mayor desafío técnico radicó en la preparación de matrices de caracterís
 ### 🎯 Competencias Consolidadas
 
 * **Modelado Predictivo:** Capacidad para formular, entrenar y diagnosticar modelos de regresión lineal y logística en Python.
-* **Validación Estadísticas:** Habilidad para clasificar, evaluar métricas de precisión y validar modelos mediante análisis ROC.
+* **Validación Estadística:** Habilidad para clasificar, evaluar métricas de precisión y validar modelos mediante análisis ROC.
