@@ -10,7 +10,7 @@ Da clic sobre cualquier laboratorio para inspeccionar el cuaderno de código dir
 
 * 📓 [Ver APE 11: Pruebas No Paramétricas y Ajuste](./APE11.ipynb)
   * *Descripción:* Evaluación de distribuciones y pruebas de bondad de ajuste en variables no paramétricas.
-* 📓 [Ver APE 12: Regresión Lineal Simple](./APE_012_Regresion.ipynb)
+* 📓 [Ver APE 12: Regresión Lineal Simple](./APE_012_Regresion_ipynb_.ipynb)
   * *Descripción:* Modelado de relación entre variables cuantitativas, ajuste por mínimos cuadrados y evaluación de $R^2$.
 * 📓 [Ver APE 14: Regresión Lineal Múltiple](./APE_014_Regresion_Multiple_.ipynb)
   * *Descripción:* Construcción de modelos multivariados y análisis de multicolinealidad en conjuntos de datos.
